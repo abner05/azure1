@@ -9,7 +9,7 @@ Intro to DevOps
     Azure Pipelines
       Azure Artifacts
    Azure Test Plans
-02:07:04 - Compliance
+-   Compliance
 
 
 
